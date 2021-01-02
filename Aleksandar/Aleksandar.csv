@@ -1,0 +1,248 @@
+date,activity,duration
+2020-10-19,wash up,15
+2020-10-19,sleep,360
+2020-10-19,work,480
+2020-10-20,sleep,360
+2020-10-20,work,480
+2020-10-21,learning Python,160
+2020-10-21,sleep,360
+2020-10-21,work,480
+2020-10-21,learning Python,120
+2020-10-22,wash up,15
+2020-10-22,sleep,360
+2020-10-22,work,480
+2020-10-22,exercise,30
+2020-10-22,wash up,15
+2020-10-22,exercise,30
+2020-10-23,sleep,360
+2020-10-23,work,480
+2020-10-24,wash up,15
+2020-10-24,sleep,360
+2020-10-24,exercise,30
+2020-10-25,sleep,360
+2020-10-25,exercise,30
+2020-10-26,learning Python,160
+2020-10-26,wash up,15
+2020-10-26,sleep,360
+2020-10-26,work,480
+2020-10-26,exercise,30
+2020-10-27,learning Python,160
+2020-10-27,sleep,360
+2020-10-27,work,480
+2020-10-27,exercise,30
+2020-10-28,wash up,15
+2020-10-28,sleep,360
+2020-10-28,work,480
+2020-10-28,exercise,30
+2020-10-29,sleep,360
+2020-10-29,work,480
+2020-10-30,sleep,360
+2020-10-30,work,480
+2020-10-31,sleep,360
+2020-11-01,learning Python,160
+2020-11-01,wash up,15
+2020-11-01,sleep,360
+2020-11-02,work,480
+2020-11-02,learning Python,160
+2020-11-02,sleep,360
+2020-11-03,work,480
+2020-11-03,learning Python,160
+2020-11-03,wash up,15
+2020-11-03,sleep,360
+2020-11-03,exercise,30
+2020-11-04,work,480
+2020-11-04,sleep,360
+2020-11-05,work,480
+2020-11-05,learning Python,160
+2020-11-05,wash up,15
+2020-11-05,sleep,360
+2020-11-05,exercise,30
+2020-11-06,work,480
+2020-11-06,sleep,360
+2020-11-07,learning Python,160
+2020-11-07,wash up,15
+2020-11-07,sleep,360
+2020-11-07,exercise,30
+2020-11-08,learning Python,160
+2020-11-08,sleep,360
+2020-11-08,exercise,30
+2020-11-09,work,480
+2020-11-09,learning Python,160
+2020-11-09,sleep,360
+2020-11-10,work,480
+2020-11-10,wash up,15
+2020-11-10,sleep,360
+2020-11-11,work,480
+2020-11-11,learning Python,160
+2020-11-11,wash up,15
+2020-11-11,sleep,360
+2020-11-11,exercise,30
+2020-11-12,work,480
+2020-11-12,learning Python,160
+2020-11-12,sleep,360
+2020-11-13,work,480
+2020-11-13,learning Python,160
+2020-11-13,sleep,360
+2020-11-14,learning Python,160
+2020-11-14,wash up,15
+2020-11-14,sleep,360
+2020-11-14,exercise,30
+2020-11-15,learning Python,160
+2020-11-15,sleep,360
+2020-11-16,work,480
+2020-11-16,sleep,360
+2020-11-17,work,480
+2020-11-17,wash up,15
+2020-11-17,sleep,360
+2020-11-17,exercise,30
+2020-11-18,work,480
+2020-11-18,learning Python,160
+2020-11-18,sleep,360
+2020-11-19,work,480
+2020-11-19,learning Python,160
+2020-11-19,wash up,15
+2020-11-19,sleep,360
+2020-11-19,exercise,30
+2020-11-20,work,480
+2020-11-20,sleep,360
+2020-11-20,exercise,30
+2020-11-21,learning Python,160
+2020-11-21,wash up,15
+2020-11-21,sleep,360
+2020-11-21,exercise,30
+2020-11-22,sleep,360
+2020-11-22,exercise,30
+2020-11-23,work,480
+2020-11-23,learning Python,160
+2020-11-23,wash up,15
+2020-11-23,sleep,360
+2020-11-24,work,480
+2020-11-24,learning Python,160
+2020-11-24,wash up,15
+2020-11-24,sleep,360
+2020-11-24,exercise,30
+2020-11-25,work,480
+2020-11-25,sleep,360
+2020-11-26,work,480
+2020-11-26,learning Python,160
+2020-11-26,wash up,15
+2020-11-26,sleep,360
+2020-11-26,exercise,30
+2020-11-27,work,480
+2020-11-27,sleep,360
+2020-11-28,learning Python,160
+2020-11-28,wash up,15
+2020-11-28,sleep,360
+2020-11-28,exercise,30
+2020-11-29,learning Python,160
+2020-11-29,sleep,360
+2020-11-30,work,480
+2020-11-30,learning Python,160
+2020-11-30,wash up,15
+2020-11-30,sleep,360
+2020-11-30,exercise,30
+2020-12-01,work,480
+2020-12-01,learning Python,160
+2020-12-01,sleep,360
+2020-12-01,exercise,30
+2020-12-02,work,480
+2020-12-02,wash up,15
+2020-12-02,sleep,360
+2020-12-03,work,480
+2020-12-03,learning Python,160
+2020-12-03,wash up,15
+2020-12-03,sleep,360
+2020-12-03,exercise,30
+2020-12-04,work,480
+2020-12-04,sleep,360
+2020-12-05,sleep,360
+2020-12-06,wash up,15
+2020-12-06,sleep,360
+2020-12-07,work,480
+2020-12-07,learning Python,160
+2020-12-07,wash up,15
+2020-12-07,sleep,360
+2020-12-07,exercise,30
+2020-12-08,work,480
+2020-12-08,learning Python,160
+2020-12-08,sleep,360
+2020-12-09,work,480
+2020-12-09,sleep,360
+2020-12-09,exercise,30
+2020-12-10,work,480
+2020-12-10,wash up,15
+2020-12-10,sleep,360
+2020-12-11,work,480
+2020-12-11,sleep,360
+2020-12-11,exercise,30
+2020-12-12,learning Python,160
+2020-12-12,wash up,15
+2020-12-12,sleep,360
+2020-12-12,exercise,30
+2020-12-13,learning Python,160
+2020-12-13,sleep,360
+2020-12-13,exercise,30
+2020-12-14,work,480
+2020-12-14,sleep,360
+2020-12-14,exercise,30
+2020-12-15,work,480
+2020-12-15,sleep,360
+2020-12-16,work,480
+2020-12-16,wash up,15
+2020-12-16,sleep,360
+2020-12-16,exercise,30
+2020-12-17,work,480
+2020-12-17,learning Python,160
+2020-12-17,wash up,15
+2020-12-17,sleep,360
+2020-12-17,exercise,30
+2020-12-18,work,480
+2020-12-18,learning Python,160
+2020-12-18,sleep,360
+2020-12-18,exercise,30
+2020-12-19,sleep,360
+2020-12-20,learning Python,160
+2020-12-20,wash up,15
+2020-12-20,sleep,360
+2020-12-20,coding,20
+2020-12-20,learning Python,10
+2020-12-20,backlogging,20
+2020-12-20,exercise,30
+2020-12-21,work,480
+2020-12-21,sleep,360
+2020-12-21,exercise,25
+2020-12-21,coding,90
+2020-12-22,sleep,360
+2020-12-22,work,480
+2020-12-22,wash up,15
+2020-12-23,work,480
+2020-12-23,sleep,360
+2020-12-23,exercise,30
+2020-12-24,sleep,360
+2020-12-24,work,480
+2020-12-24,wash up,15
+2020-12-24,exercise,30
+2020-12-24,learning Python,105
+2020-12-25,sleep,360
+2020-12-25,work,480
+2020-12-25,exercise,30
+2020-12-25,coding,30
+2020-12-27,sleep,360
+2020-12-27,exercise,30
+2020-12-27,wash up,15
+2020-12-28,sleep,360
+2020-12-28,exercise,30
+2020-12-28,work,480
+2020-12-29,sleep,360
+2020-12-29,work,480
+2020-12-29,exercise,20
+2020-12-30,sleep,360
+2020-12-30,work,160
+2020-12-30,wash up,15
+2020-12-31,sleep,360
+2020-12-31,work,300
+2020-12-31,exercise,20
+2021-01-01,sleep,480
+2021-01-01,exercise,20
+2021-01-02,wash up,15
+2021-01-02,sleep,400

@@ -1,0 +1,12 @@
+1. Create a nice UI with multiple choice questions
+2. Create a list of unique activities and make it so that you can choose from previous activities, or add a new activity
+3. Create groups of activities (productive, sleep, procrastinating, etc) - link groups of activities to purposes
+4. Find a way to calculate unaccounted time for each day
+5. Find a nice way to create stats for database
+6. Try to convert minutes to hours or something - in order to display data in a more pleasing way
+7. Try to make this app available online in a browser by using fastapi of flask.
+8. Make a simple GUI for an android app using this as a codebase
+9. Make this app available on a website if possible and ask friends to get on it and log their activities
+10. Create purposes of all activities and try to set up milestones for each purpose
+11. After creating all modules, make them all into definitions and create a default menu to fall back to instead of finishing a program and falling back to shell
+ 64cb6690d5b3422af1ef57e248aae897e0a860f0
