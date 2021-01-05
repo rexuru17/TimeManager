@@ -19,13 +19,11 @@ activities = list(numpy.asarray(df.activity.unique()))
 print(activities)
 groups_by_type = {}
 file_headers = ['group', 'activity']
-try:
+filecheck = os.path.isfile(f"{BASE_DIR}/{name}/{name}-groups.csv")
+if filecheck is False:
     open(os.path.join(f"{BASE_DIR}/{name}", f"./{name}-groups.csv"), 'a+')
     with open(f"./{name}/{name}-groups.csv", 'w') as f:
         f.write("group,activity" + '\n')
-except FileExistsError:
-    print("You have already created groups")
-else:
     print("Above are the activities extracted from your database. Please input types of your activities: ")
     for activity in activities:
         activity_type = input(f"How would you describe your activity '{activity}'?")
@@ -34,3 +32,5 @@ else:
             dict_writer = DictWriter(group_file, fieldnames=file_headers)
             dict_writer.writerow(groups_by_type)
     print("thank you")
+else:
+    print("You have already created groups")

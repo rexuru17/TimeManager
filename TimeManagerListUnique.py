@@ -1,4 +1,4 @@
-# this file will be used to create a list fo unique activities to chose from OR create a new activity
+# this file will be used to create a list for unique activities to chose from OR create a new activity
 
 
 import pandas as pd
@@ -23,5 +23,9 @@ for name1 in unique_names:
 
 # this thing prints keys and values for unique items in database.
 # now find a way to make the n-th item create new item and by selecting key, automatically add value instead of typing
-for k, v in unique_dict.items():
-    print(k, v)
+for key_dict, value_dict in unique_dict.items():
+    print(key_dict, value_dict)
+last_key = int(key_dict)+1
+last_item = "<<Create new activity>>"
+add_new_item_dict = {last_key: last_item}
+print(f"{last_key} {last_item}")

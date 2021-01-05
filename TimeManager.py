@@ -1,3 +1,4 @@
+# this file will be used to add new activities to log into database
 import os
 import datetime
 # import csv

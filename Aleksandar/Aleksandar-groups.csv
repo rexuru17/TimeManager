@@ -1,8 +1,8 @@
 group,activity
-grooming,wash up
-grooming,sleep
-productive,work
+essential,wash up
+essential,sleep
+resource providing,work
 productive,learning Python
-grooming,exercise
+essential,exercise
 productive,coding
 chore,backlogging
